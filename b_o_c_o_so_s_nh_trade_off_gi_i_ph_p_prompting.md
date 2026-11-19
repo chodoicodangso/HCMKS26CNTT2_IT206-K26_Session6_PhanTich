@@ -64,19 +64,19 @@ Trình bày kết quả ngắn gọn theo đúng 2 mục dưới đây (không c
 
 **Phản hồi thực tế từ AI (Output):**
 
-> **1. Bảng điểm chi tiết:**
->
-> | Tiêu chí | Điểm | Nhận xét | 
-> | ----- | ----- | ----- | 
-> | Chính xác | 4/4 | Nắm đúng đặc tính tốc độ cao và tính chất mất dữ liệu khi tắt nguồn. | 
-> | Diễn đạt đơn giản | 2/4 | Dùng từ chuyên ngành ("truy cập ngẫu nhiên", "khả biến") giống định nghĩa giáo trình. | 
-> | Ví dụ thực tế | 2/2 | Ví dụ mở nhiều tab trình duyệt rất thực tế và đúng bản chất. | 
-> | **TỔNG ĐIỂM** | **8/10** | **Khá** | 
->
-> **2. Nhận xét Feynman:**
->
-> * **Ý đã làm tốt:** Bạn hiểu chính xác vai trò lưu trữ tạm thời của RAM khi chạy đa nhiệm (mở nhiều tab) và đặc điểm mất dữ liệu khi mất điện.
->
-> * **Lỗ hổng kiến thức:** Bạn đang dùng lại các thuật ngữ kỹ thuật cứng nhắc ("bộ nhớ truy cập ngẫu nhiên", "khả biến") thay vì diễn đạt lại bằng ngôn ngữ đời thường để chứng tỏ mình thực sự hiểu sâu.
->
-> * **Câu hỏi gợi mở:** Nếu giải thích cho một người không rành công nghệ, bạn sẽ ví von RAM và ổ cứng giống như những đồ vật gì trên một bàn làm việc? Tại sao máy tính không dùng luôn ổ cứng để chạy ứng dụng cho đỡ tốn tiền mua RAM?
+ **1. Bảng điểm chi tiết:**
+
+| Tiêu chí | Điểm | Nhận xét | 
+| ----- | ----- | ----- | 
+| Chính xác | 4/4 | Nắm đúng đặc tính tốc độ cao và tính chất mất dữ liệu khi tắt nguồn. | 
+| Diễn đạt đơn giản | 2/4 | Dùng từ chuyên ngành ("truy cập ngẫu nhiên", "khả biến") giống định nghĩa giáo trình. | 
+| Ví dụ thực tế | 2/2 | Ví dụ mở nhiều tab trình duyệt rất thực tế và đúng bản chất. | 
+| **TỔNG ĐIỂM** | **8/10** | **Khá** | 
+
+**2. Nhận xét Feynman:**
+
+* **Ý đã làm tốt:** Bạn hiểu chính xác vai trò lưu trữ tạm thời của RAM khi chạy đa nhiệm (mở nhiều tab) và đặc điểm mất dữ liệu khi mất điện.
+
+* **Lỗ hổng kiến thức:** Bạn đang dùng lại các thuật ngữ kỹ thuật cứng nhắc ("bộ nhớ truy cập ngẫu nhiên", "khả biến") thay vì diễn đạt lại bằng ngôn ngữ đời thường để chứng tỏ mình thực sự hiểu sâu.
+
+* **Câu hỏi gợi mở:** Nếu giải thích cho một người không rành công nghệ, bạn sẽ ví von RAM và ổ cứng giống như những đồ vật gì trên một bàn làm việc? Tại sao máy tính không dùng luôn ổ cứng để chạy ứng dụng cho đỡ tốn tiền mua RAM?

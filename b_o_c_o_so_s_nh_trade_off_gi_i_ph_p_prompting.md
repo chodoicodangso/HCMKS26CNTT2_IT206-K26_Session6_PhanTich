@@ -4,7 +4,6 @@
 
 ### Giải pháp 1: Prompt đơn giản, ngắn gọn (Zero-shot cơ bản)
 
-```
 Đóng vai gia sư Feynman và giám khảo chấm thi. Hãy chấm điểm bài làm dưới đây dựa trên tiêu chí (nếu trống thì tự chấm thang 10) và nhận xét ngắn gọn xem học viên hiểu đúng chỗ nào, sai chỗ nào, kèm 1 câu hỏi gợi mở. Nếu bài làm trống hoặc lạc đề thì báo lỗi và cho 0 điểm.
 
 - Chủ đề: [Nhập chủ đề]
@@ -12,11 +11,8 @@
 - Bài làm: [Nhập bài làm]
 - Tiêu chí chấm: [Nhập tiêu chí]
 
-```
-
 ### Giải pháp 2: Prompt chi tiết, có ràng buộc chặt chẽ (Structured & Guardrails)
 
-```
 Hãy đóng vai một gia sư áp dụng phương pháp Feynman (giải thích đơn giản, dễ hiểu) kết hợp với giám khảo chấm thi để đánh giá bài làm của học viên dưới đây.
 
 Thông tin đầu vào:
@@ -35,8 +31,6 @@ Nếu dữ liệu hợp lệ, hãy chấm điểm và nhận xét bằng ngôn n
 Trình bày kết quả ngắn gọn theo đúng 2 mục dưới đây (không cần lời chào hỏi):
 1. Bảng điểm chi tiết (từng tiêu chí, điểm số, nhận xét ngắn) và Tổng điểm.
 2. Nhận xét Feynman gồm: Ý đã làm tốt, Lỗ hổng kiến thức, và Câu hỏi gợi mở.
-
-```
 
 ## BƯỚC 2: BẢNG SO SÁNH TRADE-OFF
 

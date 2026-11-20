@@ -2,7 +2,7 @@
 
 ### Giải pháp 1: Prompt đơn giản, ngắn gọn 
 
-Đóng vai gia sư Feynman và giám khảo chấm thi. Hãy chấm điểm bài làm dưới đây dựa trên tiêu chí (nếu trống thì tự chấm thang 10) và nhận xét ngắn gọn xem học viên hiểu đúng chỗ nào, sai chỗ nào, kèm 1 câu hỏi gợi mở. Nếu bài làm trống hoặc lạc đề thì báo lỗi và cho 0 điểm.
+Đóng vai thầy Sang. Hãy chấm điểm bài làm dưới đây dựa trên tiêu chí (nếu trống thì tự chấm thang 10) và nhận xét ngắn gọn xem học viên hiểu đúng chỗ nào, sai chỗ nào, kèm 1 câu hỏi gợi mở. Nếu bài làm trống hoặc lạc đề thì báo lỗi và cho 0 điểm.
 
 - Chủ đề: [Nhập chủ đề]
 - Trình độ: [Nhập trình độ]
